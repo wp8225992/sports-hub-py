@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "sports-hub-py"
-description = "一个全栈Python开发单桌面应用"
-authors = [{name = "王朋", email = "wpllxx@gmail.com"}]
+description = "一个全栈Python开发的桌面应用"
+authors = ["王朋 <02587462@yto.com.cn>"]
 version = "0.1.0"
 
 [tool.poetry.dependencies]
